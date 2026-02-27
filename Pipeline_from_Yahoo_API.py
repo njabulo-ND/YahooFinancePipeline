@@ -7,7 +7,7 @@ url = "https://apidojo-yahoo-finance-v1.p.rapidapi.com/stock/v4/get-statistics"
 queryParameters = {"symbol":"AMRN","region":"US","lang":"en-US"}
 
 headers = {
-	"x-rapidapi-key": "0bc6596902msh3e6ec4940e271bbp1e4fa8jsn48fb9f4c4553",
+	"x-rapidapi-key": "API_KEY",
 	"x-rapidapi-host": "apidojo-yahoo-finance-v1.p.rapidapi.com"
 }
 try:
