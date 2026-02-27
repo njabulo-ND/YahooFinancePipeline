@@ -22,15 +22,17 @@ The project is designed as a **portfolio-ready project** to showcase abilities i
 ## Project Structure
 
 
+```text
 StockStatsPipeline/
 ├── src/
-│ ├── fetch_data.py # Fetch raw stock data from Yahoo Finance
-│ ├── process_data.py # Flatten, clean, and process JSON
-│ └── store_data.py # Save cleaned data to SQL Server (SSMS) or CSV/Parquet
-├── data/ # Raw and processed datasets
-├── notebooks/ # Optional exploration / verification notebooks
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+│   ├── fetch_data.py       # Fetch raw stock data from Yahoo Finance
+│   ├── process_data.py     # Flatten, clean, and process JSON
+│   └── store_data.py       # Save cleaned data to SQL Server (SSMS) or CSV/Parquet
+├── data/                   # Raw and processed datasets
+├── notebooks/              # Optional exploration / verification notebooks
+├── requirements.txt        # Python dependencies
+└── README.md               # Project documentation
+```
 
 
 ---
