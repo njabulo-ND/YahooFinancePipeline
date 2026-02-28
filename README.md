@@ -33,23 +33,21 @@ StockStatsPipeline/
 └── README.md                            # Project documentation
 ```
 
-## Setup Instructions
-1.Create a file named .env in the root directory of the project.
-2.Add the following variable inside the file:
-3.API_KE = your_api_key_here
-4.Ensure the variable name matches exactly with the one in this project:
-API_KEY
-5.The variable name must match the one used in the source code.
--If the name is different or missing, the application will fail to start.
-6.Install Dependencies
-Run:
+# Environment Configuration
+1. Create a file named .env in the root directory of the project.
+2. Add the following variable inside the file:
+API_KEY=your_api_key_here
+3. Ensure the variable name matches exactly with the one in this project: API_KEY
+4. The variable name must match the one used in the source code.
+- If the name is different or missing, the application will fail to start.
+5. Install dependencies by running:
 pip install -r requirements.txt
-7.Important Notes
--Do NOT commit your .env file to version control.
--The .env file is ignored using .gitignore.
-8.Each user must create their own .env file with their own credentials but the variable match with the one in the project.
-9.Also the variable in the code that will be assigned to the API key must be there same with the one in the project
-API_KEY = 
+6. Important Notes:
+- Do NOT commit your .env file to version control.
+- The .env file is ignored using .gitignore.
+7. Each user must create their own .env file with their own credentials, but the variable must match the one in the project.
+8. The variable in the code that will be assigned to the API key must be the same as in the project:
+API_KEY = os.getenv("API_KEY")
 
 ---
 
