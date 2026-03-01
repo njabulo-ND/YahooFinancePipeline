@@ -24,7 +24,7 @@ The project is designed as a **portfolio-ready project** to showcase abilities i
 ```text
 StockStatsPipeline/
 ├── ssource/
-│   ├── Pipeline_from_Yahoo_API.py       # Fetch raw stock data from Yahoo Finance
+│   ├── fetch_data.py                    # Fetch raw stock data from Yahoo Finance
 │   ├── process_data.py                  # Flatten, clean, and process JSON
 │   └── store_data.py                    # Save cleaned data to SQL Server (SSMS) or CSV/Parquet
 ├── data/                                # Raw and processed datasets
