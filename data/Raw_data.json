@@ -15,8 +15,8 @@
             "longFmt": "5,498,371,072"
           },
           "forwardPE": {
-            "raw": 12.196582,
-            "fmt": "12.20"
+            "raw": 12.264958,
+            "fmt": "12.26"
           },
           "profitMargins": {
             "raw": -0.1816,
@@ -87,7 +87,7 @@
             "fmt": "22.08"
           },
           "priceToBook": {
-            "raw": 0.646257,
+            "raw": 0.64988005,
             "fmt": "0.65"
           },
           "annualReportExpenseRatio": {},
