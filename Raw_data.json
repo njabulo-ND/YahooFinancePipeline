@@ -1,0 +1,170 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 5498371072,
+            "fmt": "5.5B",
+            "longFmt": "5,498,371,072"
+          },
+          "forwardPE": {
+            "raw": 12.196582,
+            "fmt": "12.20"
+          },
+          "profitMargins": {
+            "raw": -0.1816,
+            "fmt": "-18.16%"
+          },
+          "floatShares": {
+            "raw": 366928640,
+            "fmt": "366.93M",
+            "longFmt": "366,928,640"
+          },
+          "sharesOutstanding": {
+            "raw": 20792684,
+            "fmt": "20.79M",
+            "longFmt": "20,792,684"
+          },
+          "sharesShort": {
+            "raw": 410128,
+            "fmt": "410.13k",
+            "longFmt": "410,128"
+          },
+          "sharesShortPriorMonth": {
+            "raw": 409310,
+            "fmt": "409.31k",
+            "longFmt": "409,310"
+          },
+          "sharesShortPreviousMonthDate": {
+            "raw": 1768435200,
+            "fmt": "2026-01-15"
+          },
+          "dateShortInterest": {
+            "raw": 1770940800,
+            "fmt": "2026-02-13"
+          },
+          "sharesPercentSharesOut": {
+            "raw": 0.0197,
+            "fmt": "1.97%"
+          },
+          "heldPercentInsiders": {
+            "raw": 0.021329999,
+            "fmt": "2.13%"
+          },
+          "heldPercentInstitutions": {
+            "raw": 0.22631,
+            "fmt": "22.63%"
+          },
+          "shortRatio": {
+            "raw": 4.99,
+            "fmt": "4.99"
+          },
+          "shortPercentOfFloat": {
+            "raw": 0.0287,
+            "fmt": "2.87%"
+          },
+          "beta": {
+            "raw": 0.888,
+            "fmt": "0.89"
+          },
+          "impliedSharesOutstanding": {
+            "raw": 20792684,
+            "fmt": "20.79M",
+            "longFmt": "20,792,684"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 22.081,
+            "fmt": "22.08"
+          },
+          "priceToBook": {
+            "raw": 0.646257,
+            "fmt": "0.65"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "qtdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1767139200,
+            "fmt": "2025-12-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1798675200,
+            "fmt": "2026-12-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1767139200,
+            "fmt": "2025-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -38798000,
+            "fmt": "-38.8M",
+            "longFmt": "-38,798,000"
+          },
+          "trailingEps": {
+            "raw": -4.2,
+            "fmt": "-4.20"
+          },
+          "forwardEps": {
+            "raw": 1.17,
+            "fmt": "1.17"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": "1:20",
+          "lastSplitDate": {
+            "raw": 1744329600,
+            "fmt": "2025-04-11"
+          },
+          "enterpriseToRevenue": {
+            "raw": 25.736,
+            "fmt": "25.74"
+          },
+          "enterpriseToEbitda": {
+            "raw": -507.245,
+            "fmt": "-507.24"
+          },
+          "52WeekChange": {
+            "raw": 0.3656863,
+            "fmt": "36.57%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.19097292,
+            "fmt": "19.10%"
+          },
+          "lastDividendValue": {},
+          "lastDividendDate": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {},
+          "latestFundingDate": {},
+          "latestAmountRaised": {},
+          "latestImpliedValuation": {},
+          "latestShareClass": null,
+          "leadInvestor": null,
+          "fundingToDate": {},
+          "totalFundingRounds": {}
+        }
+      }
+    ],
+    "error": null
+  }
+}
