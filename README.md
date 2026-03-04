@@ -20,7 +20,7 @@ The project is designed as a **portfolio-ready example** to showcase abilities i
 
 > ✅ **Current status:** Data fetching from the API is fully implemented.              
 > ✅ **Current status:**  Transform, clean, and store the useful data into json is fully implemented.    
-> ⬜ **Next steps:** Retrieve cleaned and uselful data from json and store into CSV/SQL formats.  
+> ⬜ **Next steps:** Retrieve cleaned and useful data from json and store into CSV/SQL formats.  
 
 ---
 
