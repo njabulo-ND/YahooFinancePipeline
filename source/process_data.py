@@ -1,7 +1,7 @@
 import json
 from datetime import datetime, UTC
 
-# EXTRACTING FROM FETCHED JSON AND VALIDATING
+# EXTRACTING FROM RAW JSON AND VALIDATING
 try:
     with open(r'data/Raw_data.json', 'r') as data_pulled_from_json_file:
         data = json.load(data_pulled_from_json_file)
