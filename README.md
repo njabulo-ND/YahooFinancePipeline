@@ -18,9 +18,9 @@ The project is designed as a **portfolio-ready example** to showcase abilities i
 - Designed for **scalability and automation**  
 - Version-controlled with **Git** for reproducibility  
 
-> ✅ **Current status:** Data fetching from the API is fully implemented.              
-> ✅ **Current status:**  Transforming, cleaning, and storing the useful data into new json is fully implemented.    
-> ⬜ **Next steps:** Retrieve cleaned and useful data from json and store into CSV/SQL formats.  
+> ✅ **Current status:** Data fetching from the API is fully implemented. 
+> ✅ **Current status:**  Transform, clean, and store the useful data into json is fully implemented.    
+> ⬜ **Next steps:** Retrieve cleaned and uselful data from json and store into CSV/SQL formats.  
 
 ---
 
@@ -30,7 +30,7 @@ The project is designed as a **portfolio-ready example** to showcase abilities i
 StockStatsPipeline/
 ├── source/
 │   ├── fetch_data.py      # Fetch raw stock data from Yahoo Finance
-│   ├── process_data.py    # Flatten, clean, and process JSON (in progress)
+│   ├── process_data.py    # Flatten, clean, and process JSON 
 │   └── store_data.py      # Save cleaned data to SQL Server (SSMS) or CSV/Parquet (pending)
 ├── data/                  # Raw and processed datasets
 ├── notebooks/             # Optional exploration / verification notebooks
