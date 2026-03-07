@@ -31,7 +31,7 @@ try:
     df = pd.DataFrame(dict_data)
 
     # Final Loading to data warehouse on SSMS
-    df.to_sql(name='ARMN_Statistics', con=the_engine,if_exists='replace', index=False)
+    df.to_sql(name='ARMN_Statistics', con=the_engine,if_exists='append', index=False)
     print("Data loaded to the ware house")
     # Loading to CSV for back up
     df.to_csv(r"data\Backup_Stats.csv",mode='a',index=False,header=not os.path.exists(r"data\Backup_Stats.csv"))
