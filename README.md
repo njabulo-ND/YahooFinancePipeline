@@ -1,5 +1,5 @@
 # Yahoo Finance Stock Statistics Pipeline  
-## PROJECT STATUS: Work in Progress  
+## PROJECT STATUS: Complete 
 
 ## Overview  
 This project is a **data engineering pipeline** that fetches, processes, and stores stock statistics from the Yahoo Finance API.  
@@ -18,9 +18,9 @@ The project is designed as a **portfolio-ready example** to showcase abilities i
 - Designed for **scalability and automation**  
 - Version-controlled with **Git** for reproducibility  
 
-> ✅ **Current status:** Data fetching from the API is fully implemented. 
-> ✅ **Current status:**  Transform, clean, and store the useful data into json is fully implemented.    
-> ⬜ **Next steps:** Retrieve cleaned and uselful data from json and store into CSV/SQL formats.  
+> ✅ **Data fetching:** Complete
+> ✅ **Data processing & cleaning:**  Complete    
+> ⬜ **Data storage (SQL/JSON):** Complete
 
 ---
 
@@ -30,8 +30,8 @@ The project is designed as a **portfolio-ready example** to showcase abilities i
 StockStatsPipeline/
 ├── source/
 │   ├── fetch_data.py      # Fetch raw stock data from Yahoo Finance
-│   ├── process_data.py    # Flatten, clean, and process JSON 
-│   └── store_data.py      # Save cleaned data to SQL Server (SSMS) or CSV/Parquet (pending)
+│   ├── process_data.py    # Flatten, clean, and process JSON
+│   └── store_data.py      # Save cleaned data to SQL Server, CSV, or Parquet
 ├── data/                  # Raw and processed datasets
 ├── notebooks/             # Optional exploration / verification notebooks
 ├── requirements.txt       # Python dependencies
