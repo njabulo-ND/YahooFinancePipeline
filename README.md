@@ -19,8 +19,8 @@ The project is designed as a **portfolio-ready example** to showcase abilities i
 - Version-controlled with **Git** for reproducibility  
 
 > ✅ **Data fetching:** Complete
-> ✅ **Data processing & cleaning:**  Complete    
-> ⬜ **Data storage (SQL/JSON):** Complete
+> ✅ **Data processing & cleaning:**  Complete                    
+> ✅ **Data storage (SQL/JSON):** Complete
 
 ---
 
